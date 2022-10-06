@@ -1,0 +1,15 @@
+{
+  "name": "101320111_comp3123_test1",
+  "version": "1.0.0",
+  "description": "Lab Test 1 for COMP 3123.",
+  "main": "question-1/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "q1": "node question-1/script.js",
+    "q2": "node question-2/script.js",
+    "q3": "node question-3/script.js",
+    "labtest": "npm run q1 && npm run q2 && npm run q3"
+  },
+  "author": "Julien Widmer",
+  "license": "ISC"
+}
